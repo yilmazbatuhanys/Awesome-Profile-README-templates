@@ -1,4 +1,4 @@
-### NOTE : This repo is archived until the end of Hacktoberfest
+### NOTE : This repo is forked from https://github.com/kautukkundan/Awesome-Profile-README-templates.
 
 First chioce for readme tamplets profile : 
 
